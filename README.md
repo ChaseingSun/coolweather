@@ -1,2 +1,2 @@
 # coolweather
-酷欧天气
+酷欧天气app
